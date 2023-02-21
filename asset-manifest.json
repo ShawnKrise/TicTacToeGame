@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TicTacToeGame/static/css/main.bf9772f0.css",
+    "main.js": "/TicTacToeGame/static/js/main.459bf09e.js",
+    "index.html": "/TicTacToeGame/index.html",
+    "main.bf9772f0.css.map": "/TicTacToeGame/static/css/main.bf9772f0.css.map",
+    "main.459bf09e.js.map": "/TicTacToeGame/static/js/main.459bf09e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf9772f0.css",
+    "static/js/main.459bf09e.js"
+  ]
+}
